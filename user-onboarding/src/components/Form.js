@@ -8,7 +8,7 @@ function Forms(errors, touched){
       <Field type="text" name="name" placeholder="Name" /><br/>
       <Field type="text" name="email" placeholder="Email" /><br/>
       <Field type="password" name="password" placeholder="Password" /><br/>
-      <Field type="checkbox" name="checkbox" /><br/>
+      I agree with TOS<Field type="checkbox" name="checkbox"/><br/>
 
       <button type="submit">Submit</button>
     </Form>
